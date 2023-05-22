@@ -1,8 +1,8 @@
 openai
 python-dotenv
-llama-index==0.6.0
+llama-index
 sqlalchemy >=1.4
-LangChain==0.0.154
+LangChain
 sentence-transformers
 html2text  
 trafilatura
